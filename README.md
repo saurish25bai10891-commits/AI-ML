@@ -1,5 +1,5 @@
 # AI-ML
-■ Student pass or fail Predictor
+■ GradeGuide Predictive Analytics
 Fundamentals of AI & ML |
 
 BY
