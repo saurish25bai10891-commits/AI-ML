@@ -1,6 +1,6 @@
 # AI-ML
 ■ Student Success Predictor
-Fundamentals of AI & ML | Capstone Project (BYOP)
+Fundamentals of AI & ML |
 
 BY
 **Saurish Modgil**
@@ -21,7 +21,7 @@ Language Python 3.13 (Miniconda)
 Libraries: Pandas, Scikit-Learn, Matplotlib
 Model Logistic Regression
 
-Environment VS Code (macOS)
+Environment VS Code (windows)
 
 How It Works
 
