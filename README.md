@@ -8,8 +8,8 @@ BY
 
 Project Overview
 
-This project leverages Supervised Machine Learning to predict student academic outcomes. By
-analyzing key behavioral and performance metrics, the model identifies whether a student is likely
+This project utilizes Supervised Machine Learning to predict student academic outcomes. By
+analyzing key behavioral and performance benchmarks, the model identifies whether a student is likely
 to pass or fail, allowing for proactive educational intervention.
 
 Tech Stack
