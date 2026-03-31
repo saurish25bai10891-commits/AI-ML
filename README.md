@@ -1,6 +1,7 @@
 # AI-ML
 ■ Student Success Predictor
 Fundamentals of AI & ML | Capstone Project (BYOP)
+
 BY
 **Saurish Modgil**
 *25BAI10891*
@@ -30,5 +31,4 @@ How It Works
 
 Setup & Installation
 1. Clone the Repository:
-git clone https://github.com/Divye-venom/Student-grade-predictor-
-cd student-success-predictor
+git clone https://github.com/saurish25bai10891-commits/AI-ML/tree/main
