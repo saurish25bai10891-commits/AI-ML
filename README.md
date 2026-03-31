@@ -1,5 +1,5 @@
 # AI-ML
-■ Student Success Predictor
+■ Student pass or fail Predictor
 Fundamentals of AI & ML |
 
 BY
